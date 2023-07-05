@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/xjem/t38c"
+	"github.com/qinvent/t38c"
 )
 
 func main() {

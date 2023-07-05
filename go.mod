@@ -1,4 +1,4 @@
-module github.com/xjem/t38c
+module github.com/qinvent/t38c
 
 go 1.14
 
